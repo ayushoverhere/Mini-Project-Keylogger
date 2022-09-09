@@ -2,15 +2,14 @@
 We developed keylogging software in Python3 that records every keystrokes of physical as
 well as on-screen keyboard, and delivers keylogs through email in response to a timer.
 Simple overview of use/purpose.
+![Screenshot Keylogger GUI](https://media-exp1.licdn.com/dms/image/C4D22AQGjimccCyXAbw/feedshare-shrink_800/0/1662678525544?e=1665619200&v=beta&t=O_DlOqxLdwukZaBF_fJgu_Z2LgTV8lJzJcYGz9VQV5g)
 
 ## Description
-We added a graphical user interface for easily taking input and recording keystrokes that will be sent to email in response to the timer. We have used various librabies like  tkinter, pynput.keyboard, logging, time, smtplib, ssl, email, threading etc.
-
+We created a graphical user interface for simply receiving input and logging keystrokes in response to the timer. We utilised a variety of libraries such as tkinter, pynput.keyboard, logging, time, smtplib, ssl, email, threading, and so on.
 ## Getting Started
-* We have to install few package inorder to run python program, we can install it by running pip install (package name)
-* We have to create app password for our application, learn more on how to create google app password at https://support.google.com/accounts/answer/185833?hl=en
-* You can install auto-py-to-exe to build exe file for the python program
-
+* In order to start a Python code, we must install a few packages; to do so, run pip install (package name)
+* To create an app password for our application, visit https://support.google.com/accounts/answer/185833?hl=en for more information.
+* Auto-py-to-exe may be installed to create an executable file for a Python code.
 
 ## Authors
 
