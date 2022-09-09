@@ -1,11 +1,27 @@
+<h1 align="center">
+  <br />
+  <a href="https://github.com/ayushsaxena119/Mini-Project-Keylogger"
+    ><img
+      src="https://cdn.icon-icons.com/icons2/2573/PNG/512/flower_leaf_spring_autumn_garden_nature_ecology_environment_plants_herb_flora_bloom_blossom_petal_icon_153835.png"
+      alt="
+    Mini-Project-Keylogger "
+      style="width: 100px; height: 100px"
+  /></a>
+  <br />
+  Mini-Project-Keylogger
+  <br />
+  <a href="https://ibb.co/ySG65nk"
+    ><img
+      src="https://media-exp1.licdn.com/dms/image/C4D22AQGjimccCyXAbw/feedshare-shrink_800/0/1662678525544?e=1665619200&v=beta&t=O_DlOqxLdwukZaBF_fJgu_Z2LgTV8lJzJcYGz9VQV5g"
+      alt="Screenshot-2022-09-09-043722"
+      border="0"
+  /></a>
+</h1>
+
 # 🔥Mini-Project-Keylogger As a mini project
 We developed keylogging software in Python3 that records every keystrokes of physical as
 well as on-screen keyboard, and delivers keylogs through email in response to a timer.
 Simple overview of use/purpose.
-
-
-![Screenshot Keylogger GUI](https://media-exp1.licdn.com/dms/image/C4D22AQGjimccCyXAbw/feedshare-shrink_800/0/1662678525544?e=1665619200&v=beta&t=O_DlOqxLdwukZaBF_fJgu_Z2LgTV8lJzJcYGz9VQV5g)
-
 
 ## Description
 We created a graphical user interface for simply receiving input and logging keystrokes in response to the timer. We utilised a variety of libraries such as tkinter, pynput.keyboard, logging, time, smtplib, ssl, email, threading, and so on.
@@ -18,10 +34,10 @@ We created a graphical user interface for simply receiving input and logging key
 
 Contributors names and contact info
 
-ayushsaxena119 Ayush K Saxena
-rohan-crypto Rohan Bhardwaj 
-namanagrawal88 Naman Agrawal
-28kuldeep Kuldeep Tiwari 
+* ayushsaxena119 Ayush K Saxena
+* rohan-crypto Rohan Bhardwaj 
+* namanagrawal88 Naman Agrawal
+* 28kuldeep Kuldeep Tiwari 
 
 
 ## Version History
