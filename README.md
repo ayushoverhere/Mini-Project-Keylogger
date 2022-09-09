@@ -2,7 +2,10 @@
 We developed keylogging software in Python3 that records every keystrokes of physical as
 well as on-screen keyboard, and delivers keylogs through email in response to a timer.
 Simple overview of use/purpose.
+
+
 ![Screenshot Keylogger GUI](https://media-exp1.licdn.com/dms/image/C4D22AQGjimccCyXAbw/feedshare-shrink_800/0/1662678525544?e=1665619200&v=beta&t=O_DlOqxLdwukZaBF_fJgu_Z2LgTV8lJzJcYGz9VQV5g)
+
 
 ## Description
 We created a graphical user interface for simply receiving input and logging keystrokes in response to the timer. We utilised a variety of libraries such as tkinter, pynput.keyboard, logging, time, smtplib, ssl, email, threading, and so on.
