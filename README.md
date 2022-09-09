@@ -8,7 +8,9 @@
       style="width: 100px; height: 100px"
   /></a>
   <br />
-  Mini-Project-Keylogger
+  
+  🔥Mini-Project-Keylogger
+  
   <br />
   <a href="https://ibb.co/ySG65nk"
     ><img
@@ -18,7 +20,7 @@
   /></a>
 </h1>
 
-# 🔥Mini-Project-Keylogger As a mini project
+# 🔥Mini-Project-Keylogger
 We developed keylogging software in Python3 that records every keystrokes of physical as
 well as on-screen keyboard, and delivers keylogs through email in response to a timer.
 Simple overview of use/purpose.
