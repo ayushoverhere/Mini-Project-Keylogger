@@ -25,6 +25,19 @@ We developed keylogging software in Python3 that records every keystrokes of phy
 well as on-screen keyboard, and delivers keylogs through email in response to a timer.
 Simple overview of use/purpose.
 
+# What is a KeyLogger ?
+A keylogger is a form of malware or hardware that keeps track of and records your keystrokes as you type. It takes the information and sends it to a hacker using a command-and-control (C&C) server. 
+
+# How to prevent Keylogging ? 
+1. Use a 2-Step Verification.
+2. Install Anti Malware Program.
+3. Avoid Downloading Crack Software.
+4. Use a Password Manager.
+
+# How to detect Keyloggers
+1. Through Task Manager.
+2. Full Malware Scan
+
 ## Description
 We created a graphical user interface for simply receiving input and logging keystrokes in response to the timer. We utilised a variety of libraries such as tkinter, pynput.keyboard, logging, time, smtplib, ssl, email, threading, and so on.
 ## Getting Started
