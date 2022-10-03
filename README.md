@@ -21,7 +21,7 @@
 </h1>
 
 # 🔥Mini-Project-Keylogger
-We developed keylogging software in Python3 that records every keystrokes of physical as
+We developed keylogging software in Python3 that records every keystroke of physical as
 well as on-screen keyboard, and delivers keylogs through email in response to a timer.
 Simple overview of use/purpose.
 
@@ -39,20 +39,22 @@ A keylogger is a form of malware or hardware that keeps track of and records you
 2. Full Malware Scan
 
 ## Description
-We created a graphical user interface for simply receiving input and logging keystrokes in response to the timer. We utilised a variety of libraries such as tkinter, pynput.keyboard, logging, time, smtplib, ssl, email, threading, and so on.
+Our graphical user interface simply receives input and logs keystrokes in response to a timer. In this project, we used a variety of libraries, including tkinter, pynput.keyboard, logging, time, smtplib, SSL, email, threading, etc.
 ## Getting Started
 * In order to start a Python code, we must install a few packages; to do so, run pip install (package name)
-* To create an app password for our application, visit https://support.google.com/accounts/answer/185833?hl=en for more information.
+* You can create an app password for our application or find out more information by visiting [🔗](https://support.google.com/accounts/answer/185833?hl=en) .
 * Auto-py-to-exe may be installed to create an executable file for a Python code.
 
 ## Authors
 
 Contributors names and contact info
 
-* ayushsaxena119 Ayush K Saxena
-* rohan-crypto Rohan Bhardwaj 
-* namanagrawal88 Naman Agrawal
-* 28kuldeep Kuldeep Tiwari 
+* [Ayush K Saxena](https://github.com/ayushsaxena119)
+* [Rohan Bhardwaj](https://github.com/rohan-crypto)
+* [Naman Agrawal](https://github.com/namanagrawal88)
+* [Kuldeep Tiwari](https://github.com/28kuldeep) 
+* [Siddhant Mohile](https://github.com/SidmoGoesBrrr)
+* [Pawan Pandey](https://github.com/PawanPandey007)
 
 
 ## Version History
@@ -72,5 +74,5 @@ This project is licensed under the GNU General Public License v3.0 - see the LIC
 
 Inspiration, code snippets, etc.
 * [davidbombal](https://github.com/davidbombal/CompTIA-Security-Plus/blob/main/python-keylogger)
-* [realpython] (https://realpython.com/python-send-email/)
-* [stackoverflow] (https://stackoverflow.com/)
+* [realpython](https://realpython.com/python-send-email/)
+* [stackoverflow](https://stackoverflow.com/)
